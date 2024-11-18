@@ -1,0 +1,1 @@
+So far I have learned many new tips and features about using Git and VS Code together. Creating new repositories is becoming more natural as I continue along. I am really looking forward to starting to learn how to code. I am excited to begin my journey and plan to create a foundation for my future and career.
